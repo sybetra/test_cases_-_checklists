@@ -1,1 +1,1 @@
-# test_cases_-_checklists
+### This repository contains test cases and checklists created during my testing practice.
